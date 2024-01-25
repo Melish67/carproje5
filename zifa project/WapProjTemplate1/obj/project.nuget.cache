@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UjFCy9wL1L/DRDlzTKHFbVjj51QkcIcNPt4YEx4dh9i3t0RBeoIlWOemkd+byY+iXCTSfQNXhfCApk6J0nbdOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\zifa project\\WapProjTemplate1\\WapProjTemplate1.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.1\\microsoft.windows.sdk.buildtools.10.0.22621.1.nupkg.sha512"
+  ],
+  "logs": []
+}
